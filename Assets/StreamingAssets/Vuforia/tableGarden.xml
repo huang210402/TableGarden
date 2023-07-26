@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Logs" size="1.000000 1.064137" />
+    <ImageTarget name="Light" size="1.000000 1.003540" />
+    <ImageTarget name="Bonfire" size="1.000000 1.050479" />
+    <ImageTarget name="Groundcover_2" size="1.000000 1.099552" />
+    <ImageTarget name="Rock" size="1.000000 1.016821" />
+    <ImageTarget name="Pine" size="1.000000 1.022708" />
+    <ImageTarget name="Maple" size="1.000000 0.962994" />
+    <ImageTarget name="tree_2" size="1.000000 1.019766" />
+    <ImageTarget name="tree_1" size="1.000000 0.998241" />
+    <ImageTarget name="groundcover_1" size="1.000000 1.060526" />
+    <ImageTarget name="house" size="1.000000 0.656482" />
+  </Tracking>
+</QCARConfig>
